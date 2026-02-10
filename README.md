@@ -24,3 +24,5 @@ The framework emphasizes human accountability, governance, and predictable outco
 This framework is authored and maintained by KORIX.
 
 KORIX designs AI adoption systems for enterprises, with a focus on governance, ownership, and failure-proof implementation.
+
+Full framework (PDF): https://korixinc.com/ai-pilot
